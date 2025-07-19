@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Rey. A techno geek who is passionate about ML, DL, CV, LLMs, and Software Engineering! 
+Hello, I am Rey. A techno geek who is passionate about ML, DL, CV, LLMs, and Software Engineering! This section will be updated.
