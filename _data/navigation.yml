@@ -15,7 +15,7 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: https://github.com/Reyhaneesmailizadeh/Reyhaneesmailizadeh.github.io/teaching/    
+    url: "https://github.com/Reyhaneesmailizadeh/Reyhaneesmailizadeh.github.io/teaching/"    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,10 +24,11 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/Reyhaneesmailizadeh/Reyhaneesmailizadeh.github.io/cv/
+    url: "https://github.com/Reyhaneesmailizadeh/Reyhaneesmailizadeh.github.io/cv/"
     
   # - title: "CV"
   #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
+
