@@ -9,13 +9,13 @@
 
 main:
   - title: "Publications"
-    url: "Reyhaneesmailizadeh.github.io/publications/"
+    url: "/publications/"
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: "Reyhaneesmailizadeh.github.io/teaching/"    
+  # - title: "Teaching"
+  #   url: "/teaching/"    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: "Reyhaneesmailizadeh.github.io/cv/"
+    url: "/cv/"
     
   # - title: "CV"
   #   url: /cv-json/
