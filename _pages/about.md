@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Rey, a techno geek who is passionate about ML, DL, CV, LLMs, and Software Engineering! This section will be updated.
+Hello, I am Rey, a techno geek who is passionate about Machine Learning, Deep Learning, Computer Vision, Large Language Models, and Software Engineering! :) To find more about my work and interests, click on the "Resume" on the top left of this page. 
+
+
